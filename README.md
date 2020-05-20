@@ -4,7 +4,7 @@ Model            ACER Veriton D430
 CPU              Intel i5-4460
 Memory           8G DDR3 1600MHz (4G+4G)
 Graphics         Intel HD Graphics 4600
-Audio            Realtek
+Audio            Realtek RTL8111H
 Ethernet         Intel
 Wi-Fi            Broadcom BCM94352HMB
 Storage          Western Digital HDD 500G
