@@ -191,7 +191,7 @@
 		<key>CustomLogo</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>macOS</string>
+		<string>LastBootedVolume</string>
 		<key>Log</key>
 		<false/>
 		<key>NeverHibernate</key>
@@ -298,7 +298,7 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleIntelCPUPM</key>
-		<true/>
+		<false/>
 		<key>AppleRTC</key>
 		<true/>
 		<key>DellSMBIOSPatch</key>
@@ -307,8 +307,6 @@
 		<false/>
 		<key>KernelLapic</key>
 		<false/>
-		<key>KernelPm</key>
-		<true/>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
@@ -316,6 +314,8 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
+		<key>ROM</key>
+		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
