@@ -372,8 +372,6 @@
 	<dict>
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
-		<key>CustomUUID</key>
-		<string>97F140B9-0F28-5D0C-A93F-71D5ACAF1969</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
