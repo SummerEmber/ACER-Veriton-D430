@@ -320,35 +320,35 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>07/24/2019</string>
+		<string>02/05/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MP61.88Z.F000.B00.1907241309</string>
+		<string>IM143.88Z.F000.B00.2002051900</string>
 		<key>Board-ID</key>
-		<string>Mac-F60DEB81FF30ACF6</string>
+		<string>Mac-77EB7D7DAF985301</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>F5K816306QXFHDDFB</string>
+		<string>D25432700GUF9RR1M</string>
 		<key>BoardType</key>
-		<integer>11</integer>
+		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Pro-Enclosure</string>
+		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x02</string>
+		<string>0x0D</string>
 		<key>EfiVersion</key>
-		<string>133.0.0.0.0</string>
+		<string>142.0.0.0.0</string>
 		<key>Family</key>
-		<string>MacPro</string>
+		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xE80FE136</string>
+		<string>0xE00FE137</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF7F</string>
+		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -356,15 +356,15 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x04</string>
+		<string>0x01</string>
 		<key>ProductName</key>
-		<string>MacPro6,1</string>
+		<string>iMac14,3</string>
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>F5KWL00PF9VM</string>
+		<string>D25N608QF8J3</string>
 		<key>SmUUID</key>
-		<string>D25B139B-B03D-4954-B21F-096CCA3D829E</string>
+		<string>5B291839-6324-423B-AA56-5BD1B3D8C4BF</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
