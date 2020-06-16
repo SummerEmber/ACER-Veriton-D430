@@ -1,6 +1,7 @@
 # Hackintosh Clover & OpenCore EFI for ACER Veriton D430
 ```
 Model              ACER Veriton D430
+Mainboard          Intel H81
 CPU                Intel Core i5-4460
 Memory             8G DDR3 1600MHz (4G+4G)
 Graphics           Intel HD Graphics 4600
