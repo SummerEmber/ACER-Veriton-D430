@@ -1,4 +1,4 @@
-# Hackintosh Clover & OpenCore EFI for ACER Veriton D430 4th Gen
+# Hackintosh Clover & OpenCore EFI for ACER Veriton D430 Gen4
 ```
 Model              ACER Veriton D430
 Mainboard          Intel H81
